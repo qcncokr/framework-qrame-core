@@ -2,8 +2,10 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
-        <Authors>junworks77</Authors>
+        <Authors>qcncokr</Authors>
         <Company>qcn</Company>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>Qcn.Qrame.Core</PackageId>
     </PropertyGroup>
 
     <ItemGroup>

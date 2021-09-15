@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
     <metadata>
-        <id>$id$</id>
-        <version>$version$</version>
-        <title>$title$</title>
+        <id>Qcn.Qrame.Core</id>
+        <version>1.0.3</version>
+        <title>Qrame.Core</title>
         <authors>qcn</authors>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <license type="expression">MIT</license>
